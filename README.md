@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Varshith</h1>
 <h3 align="center">A passionate devloper from India</h3>
 
-- 🔭 I’m currently working on **PharmaShelf**
+- 🔭 I’m currently working on **Making projects**
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **web devlopment Projects**
+- 👯 I’m looking to collaborate on **AI & ML projects,Devlopment Projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **CP**
 
 - 📫 How to reach me **bvarshith77@gmail.com**
 
